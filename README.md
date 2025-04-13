@@ -23,3 +23,11 @@ Install with:
 
 ```bash
 pip install sympy
+
+## 🚀 How to Use
+Run the script:
+python lagrange_interpolation.py
+
+
+
+
