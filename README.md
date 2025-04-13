@@ -41,10 +41,11 @@ wanna break?Y/N: Y
 ```
 The result will be printed in a simplified algebraic form, such as:
 ```diff
-x+1
+x + 1
 ```
+## 📄 License
 
-
+MIT License. Feel free to use, modify, and share!
 
 
 
