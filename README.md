@@ -41,9 +41,7 @@ wanna break?Y/N: Y
 ```
 The result will be printed in a simplified algebraic form, such as:
 ```diff
-   1   1     
-- ──⋅x + ──
-   2   2
+x+1
 ```
 
 
