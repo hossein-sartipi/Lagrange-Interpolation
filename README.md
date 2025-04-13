@@ -3,6 +3,10 @@
 This Python script calculates the **Lagrange Interpolation Polynomial** for a given set of points.  
 It's a step-by-step, interactive CLI tool that helps you compute the interpolation and visualize the resulting simplified polynomial.
 
+## 🎥 Demo
+
+![Lagrange Demo](Demo.gif)
+
 ---
 
 ## 📌 Features
