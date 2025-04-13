@@ -45,7 +45,8 @@ x + 1
 ```
 ## 📄 License
 
-MIT License. Feel free to use, modify, and share!
+This project is licensed under the [MIT License](LICENSE).
+
 
 
 
