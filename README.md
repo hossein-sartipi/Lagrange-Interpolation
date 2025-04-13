@@ -23,10 +23,34 @@ Install with:
 
 ```bash
 pip install sympy
-
+```
 ## 🚀 How to Use
+
 Run the script:
+```bash
 python lagrange_interpolation.py
+```
+Then enter your data points interactively:
+```text
+x_0: 1
+y_0: 2
+x_1: 2
+y_1: 3
+x_2:
+wanna break?Y/N: Y
+```
+The result will be printed in a simplified algebraic form, such as:
+```diff
+   1   1     
+- ──⋅x + ──
+   2   2
+```
+
+
+
+
+
+
 
 
 
